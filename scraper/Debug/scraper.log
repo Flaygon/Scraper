@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  scraper.cpp
+d:\work\tretton37\scraper\scraper\scraper.cpp(62): warning C4018: '<': signed/unsigned mismatch
+d:\work\tretton37\scraper\scraper\scraper.cpp(99): warning C4018: '<': signed/unsigned mismatch
+d:\work\tretton37\scraper\scraper\scraper.cpp(130): warning C4018: '<': signed/unsigned mismatch
+d:\work\tretton37\scraper\scraper\scraper.cpp(158): warning C4018: '<': signed/unsigned mismatch
+d:\work\tretton37\scraper\scraper\scraper.cpp(173): warning C4018: '<': signed/unsigned mismatch
+d:\work\tretton37\scraper\scraper\scraper.cpp(188): warning C4018: '<': signed/unsigned mismatch
+d:\work\tretton37\scraper\scraper\scraper.cpp(466): warning C4018: '<': signed/unsigned mismatch
+d:\work\tretton37\scraper\scraper\scraper.cpp(473): warning C4018: '<': signed/unsigned mismatch
+d:\work\tretton37\scraper\scraper\scraper.cpp(480): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  scraper.vcxproj -> D:\Work\tretton37\scraper\Debug\scraper.exe
+  scraper.vcxproj -> D:\Work\tretton37\scraper\Debug\scraper.pdb (Partial PDB)

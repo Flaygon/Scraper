@@ -1,0 +1,47 @@
+#TEAM
+
+|                                   | *Twitter*       |
+|-----------------------------------|-----------------|
+| Agron Kabashi                     | @_agronkabashi  |
+| Balazs Gobel                      | @muenva         |
+| Balázs Suhajda                    | @suhajdab       |
+| Björn Handell                     | @coreywebster   |
+| Chris Sainty                      | @csainty        |
+| Christian Olsson                  | @chrilleolsson  |
+| Christian Tallhamn                | @chritall       |
+| Daniel Dani                       |                 |
+| Elin Paulsson                     |                 |
+| Eugene Kovalov                    | @artheadua      |
+| Frank Hennekens                   | @FH_Sv          |
+| Fredrik Källström                 | @fureduriku     |
+| Henrik Andersson                  | @kodkatten      |
+| Håkan Haraldsson                  | @hakan_h        |
+| Karl Adriansson                   | @HerrAdriansson |
+| Madeleine Schönemann              | @madesch        |
+| Marcus Mazur                      | @MarcusMazur    |
+| Martin Mazur                      | @m_mazur        |
+| Martin Rosenqvist                 | @MarIngPer      |
+| Martin Thern                      | @thernan        |
+| Mattias Lindahl                   | @thematlin      |
+| Michał Łusiak                     | @mlusiak        |
+| Mikael Brassman                   | @spoike         |
+| Nejc Palir                        | @n3pal          |
+| Oskar Gewalli                     | @ozzymcduff     |
+| Peter Kedemo                      | @peterkedemo    |
+| Peter von Lochow                  | @vonLochow      |
+| Sebastian Hallén                  | @basze          |
+| Victoria Holmqvist                | @vix_lodge      |
+
+#SPECIAL THANKS
+
+Special thanks to all other ninjas at tretton37 and their families for their support. Meet all the ninjas over here:
+
+http://tretton37.com/meet
+
+#SITE
+Last update: 2016-03-30
+Standards: HTML5, CSS3
+Components: jQuery, Knockout, D3, enquireJS
+Built with: Assemble.io, Grunt
+
+# Still here? We are looking for people like you http://tretton37.com/join !
